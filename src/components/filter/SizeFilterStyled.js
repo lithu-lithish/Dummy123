@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const SizeStyle = styled.div`
-  margin: 15px;
+  /* margin: 15px; */
   width: 25%;
   /* height: 100%; */
 `;

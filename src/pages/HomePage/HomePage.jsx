@@ -63,9 +63,9 @@ function HomePage() {
   return (
     <div>
       <ParentContainer className="row">
-        {/* <div>
+        <div>
         <SizeFilter setdata={setdata} data={Data} />
-        </div> */}
+        </div>
 
         <div className="column">
           <ProductContainer>
